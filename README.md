@@ -1,7 +1,9 @@
 # Плагін «Швидкий доступ та Обране» для QTTabBar (ver 2048 beta 2, Win10)
 
 Плагін додає кнопку зі спадним меню з обраними папками та закріпленими папками Windows Quick Access безпосередньо **на панель вкладок з правого краю**.
-<img width="740" height="121" alt="image" src="https://github.com/user-attachments/assets/101d6d69-3a2f-4cd6-861b-27304cf3435d" />
+
+<img width="736" height="129" alt="image" src="https://github.com/user-attachments/assets/d9d18a3b-3a58-40e0-926d-b6c5d9b81043" />
+
 
 ---
 
